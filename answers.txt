@@ -6,3 +6,22 @@ Agile Cons: 1. It is hard to properly document stuff while using agile developme
 
 The Product Owner’s job is to define the needs of the product and representing the needs of the customers. They need to set the direction of the team and deliever stake holder interests.
 
+3. Sprint Planning Meeting:
+
+determine what to do in the upcoming sprint
+
+determine story points
+
+start the sprint.
+
+Daily Scrum/Standup Meeting:
+
+discuss what has people done in the previous day.
+
+Plan what need to be done in the upcoming day.
+
+Sprint Retrospective Meeting:
+
+Discuss the output of the sprint.
+
+closes the sprint.
