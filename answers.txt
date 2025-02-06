@@ -25,3 +25,20 @@ Sprint Retrospective Meeting:
 Discuss the output of the sprint.
 
 closes the sprint.
+
+4. Epic:
+
+An epic captures a large body of work that can be broken down into several smaller stories
+
+Story:
+
+A story is a software system requirement that is expressed in a few short sentences.
+
+Bug:
+
+A Bug is a problem that prevent a feature from being implemented.
+
+Task:
+
+A Task is a task that need to be done to complete a part of a story.
+
