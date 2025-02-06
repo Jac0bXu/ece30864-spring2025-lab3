@@ -2,6 +2,7 @@
 
 Agile Cons: 1. It is hard to properly document stuff while using agile development method. 2. Agile is not good at developing complex systems.
 
-2.Scrum Master’s job is to make sure that the team adhere to the agile process and make sure the teams are collaborating with each other.
+2.Scrum Master’s job is to make sure that the team adhere to the agile process and make sure the teams are collaborating with each other. They need to do all the Jira related stuff and host standups and organize sprints.
 
-The Product Owner’s job is to define the needs of the product and representing the needs of the customers.
+The Product Owner’s job is to define the needs of the product and representing the needs of the customers. They need to set the direction of the team and deliever stake holder interests.
+
