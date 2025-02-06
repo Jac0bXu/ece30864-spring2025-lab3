@@ -1,3 +1,7 @@
 1. Agile Pros: 1. Agile is flexible and good at meeting changing project needs. 2. agile method provides quick feedback which is valuable for development. 
 
 Agile Cons: 1. It is hard to properly document stuff while using agile development method. 2. Agile is not good at developing complex systems.
+
+2.Scrum Master’s job is to make sure that the team adhere to the agile process and make sure the teams are collaborating with each other.
+
+The Product Owner’s job is to define the needs of the product and representing the needs of the customers.
